@@ -1,0 +1,27 @@
+body {
+  background-color: #EEEEEE;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 10%;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+}
+
+h1 {
+  color: #146356;
+}
+
+h3 {
+   color: #146356;
+}
+
+html {
+  font-family: inherit;
+}
